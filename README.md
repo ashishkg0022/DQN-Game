@@ -10,7 +10,7 @@
 ### Here it tries to play a classical cartpole game.
 
 
-![]("cartpole.gif")
+![cartpole](cartpole.gif)
 
 
 
